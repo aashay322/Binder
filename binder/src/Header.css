@@ -1,0 +1,15 @@
+.header{
+    display: flex;
+    justify-content:space-between;
+    align-items: center;
+    background-color: #fc9842;
+    background-image: linear-gradient(315deg, #fc9842 0%, #fe5f75 74%);
+
+    border-top: 8px solid rgb(9, 83, 167);
+    border-bottom: 8px solid rgb(233, 203, 33);
+}
+
+.header__icon{
+    color:rgb(124, 18, 211); 
+    padding: 20px;
+}
